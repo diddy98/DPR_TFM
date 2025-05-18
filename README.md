@@ -1,2 +1,2 @@
-# DPR_TFM
+# Economía en tiempo real: Nowcasting en el PIB español Mejora de las predicciones del PIB en España con datos en streaming y técnicas de aprendizaje automático
 Repositorio con el código utilizado para el TFM titulado "Economía en tiempo real: Nowcasting en el PIB español Mejora de las predicciones del PIB en España con datos en streaming y técnicas de aprendizaje automático". presentado en el curso 2024-2025 en la Universitat Oberta de Catalunya
